@@ -1,2 +1,0 @@
-# WilsonMusicWebsite
-GitHub Pages
